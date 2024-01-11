@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.env*
+src/swagger.json
+.vscode
+prisma/dev.db
+prisma/migrations/*
